@@ -76,6 +76,10 @@ sudo docker ps -a
 sudo usermod -aG docker {your_username}
 ```
 
+## _03 - Install necessary dependencies_
+``` bash 
+sudo apt install -y python3-pip python3-venv python3-dev python3-pandas git curl
+```
 
 
 
